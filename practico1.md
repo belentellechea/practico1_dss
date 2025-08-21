@@ -17,9 +17,9 @@ Antes de realizar las instalación de la máquina virtual, primero es necesario 
 ### Configuración de la máquina virtual
 
 Una vez habiendo instalado VirtualBox y la ISO de kali, abra virtual box y se mostrará la siguiente pantalla:
-
+   
    ![Imagen inicio VirtualBox](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/vb-01.png)
-
+   
 Para configurar la máquina virtual Siga los siguientes pasos:
 
 1. Presione en "New" para agregar una nueva máquina virtual y complete los datos requeridos, seleccionando el nombre de la máquina, directorio, sistema operativo, de la siguiente forma:
