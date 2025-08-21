@@ -19,7 +19,8 @@ Una vez habiendo instalado VirtualBox y la ISO de kali, abra virtual box y se mo
 
 Siga los siguientes pasos:
 
-1. Presione en "New" para agregar una nueva máquina virtual y complete los datos requeridos, seleccionando el nombre de la máquina, directorio, sistema operativo, de la siguiente forma: ![This is an alt text.](/image/sample.webp "This is a sample image.")
+1. Presione en "New" para agregar una nueva máquina virtual y complete los datos requeridos, seleccionando el nombre de la máquina, directorio, sistema operativo, de la siguiente forma:
+   ![This is an alt text.](/image/sample.webp "This is a sample image.")
 2. hola
 
 Screenshot 2025-08-21 at 11.39.31 AM.png
