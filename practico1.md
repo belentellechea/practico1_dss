@@ -32,7 +32,9 @@ Para configurar la máquina virtual Siga los siguientes pasos:
 
 ### Instalación de Kali Linux
 
-Inicialice la máquina virtual recién configurada presionando en "Start". Se prenderá la máquina y se comenzará la instalación del sistema operativo. Para tener una mejor experiencia de software, seleccione la opción de "Graphical install" para realizar el proceso con una interfaz gráfica y no por consola. Una vez comenzado el proceso, siga los siguientes pasos:
+Inicialice la máquina virtual recién configurada presionando en "Start". Se prenderá la máquina y se comenzará la instalación del sistema operativo. Para tener una mejor experiencia de software, seleccione la opción de "Graphical install" para realizar el proceso con una interfaz gráfica y no por consola. 
+
+Una vez comenzado el proceso, siga los siguientes pasos:
 
 1. Seleccione idioma y ubicación
 2. Configure el teclado
