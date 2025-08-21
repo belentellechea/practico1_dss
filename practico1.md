@@ -46,5 +46,11 @@ Una vez comenzado el proceso, siga los siguientes pasos:
    1. Seleccionar la opción de utilizar todo el disco
    2. Seleccionar esquema de "Todos los ficheros en una partición"
    3. Confirmar y finalizar el particionado
-7. Seleccionar programas
-8. 
+7. Seleccionar programas y finalizar
+
+Luego de seguir estos pasos, se instalará el sistema operativo y se iniciará la máquina. Esto demorará unos minutos. 
+
+
+--- 
+
+
