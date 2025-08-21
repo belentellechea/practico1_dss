@@ -54,3 +54,30 @@ Luego de seguir estos pasos, se instalará el sistema operativo y se iniciará l
 
 A continuación se mostrarán los pasos para instalar el proxy de intercepción BURP. Para realizar la instalación, primero se debe descargar la imagen para Linux en el sitio oficial ([Ver enlace](https://portswigger.net/burp/communitydownload)). 
 
+Una vez ingresado su correo electrónico debería aparecer la siguiente pantalla:
+
+![Imagen instalación BURP](imagenes/practico1/Burp/Burp_1.jpeg)
+
+Presione descargar y siga los siguientes pasos:
+
+1. Dirigirse a la carpeta donde se encuentra el archivo descargado. El archivo que se descarga tiene formato .sh 
+el cual contiene los comandos necesarios para comenzar la instalación. 
+2. Luego ortorgar los permisos necesarios para ejecutar el archivo con el comando: 
+   ```
+   chmod +x burpsuite_community_linux_v2025_7_4.sh
+   ```
+3. Ejecutar el archivo para comenzar la instalación
+   ```
+   ./chmod +x burpsuite_community_linux_v2025_7_4.sh
+   ```
+4. Verificar si se instaló correctamente 
+   ```
+   which burpsuite
+   ```
+
+   Debería de devolver el siguiente mensaje el cual contiene la ruta del ejecutable.
+
+   ![Imagen instalación BURP](imagenes/practico1/Burp/Burp_2.jpeg)
+5. Para ejecutar la aplicación puede utilizar el comando `burpsuite` o abrirla con la interfaz de usuario. 
+
+## Instalación de Visual Studio Code
