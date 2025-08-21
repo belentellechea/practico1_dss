@@ -81,3 +81,5 @@ el cual contiene los comandos necesarios para comenzar la instalación.
 5. Para ejecutar la aplicación puede utilizar el comando `burpsuite` o abrirla con la interfaz de usuario. 
 
 ## Instalación de Visual Studio Code
+
+Para instalar Visual Studio Code en la máquina virtual, dirijase a la página oficial de Visual Studio Code a través del siguiente [enlace](https://code.visualstudio.com/docs/setup/linux#_install-vs-code-on-linux). 
