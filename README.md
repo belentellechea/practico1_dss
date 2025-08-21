@@ -1,1 +1,1 @@
-Prácticos realizados por los alumnos Julián Bevc y Belén Tellechea
+Práctico realizado por los alumnos Julián Bevc y Belén Tellechea
