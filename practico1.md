@@ -23,7 +23,7 @@ Siga los siguientes pasos:
    
    ![Imagen configuración máquina virtual](/imagenes/practico1/Kali_VirtualBox/VirtualBox_1.png)
 
-   <img src="https://github.com/belentellechea/practicos_dss/blob/main/imagenes/practico1/Kali_VirtualBox/VirtualBox_1.png?raw=true" width="48">
+   <img src="https://github.com/belentellechea/practicos_dss/blob/main/imagenes/practico1/Kali_VirtualBox/VirtualBox_1.png?raw=true" width="300">
    
 3. hola
 
