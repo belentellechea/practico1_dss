@@ -7,5 +7,7 @@ A continuación se describiran los pasos para instalar los siguientes elementos:
 - Visual Studio Code
 - Docker 
 
-Luego se describirán los pasos necesarios para ejecutar Ejecución de OWASP y Crappi en un ambiente Dockerizado.
+Luego se describirán los pasos necesarios para ejecutar Ejecución de *OWASP* y *Crappi* en un ambiente Dockerizado.
+
+
 
