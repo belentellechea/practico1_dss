@@ -50,7 +50,7 @@ Una vez comenzado el proceso, siga los siguientes pasos:
 
 Luego de seguir estos pasos, se instalará el sistema operativo y se iniciará la máquina. Esto demorará unos minutos. 
 
+## Instalación de BURP
 
---- 
-
+A continuación se mostrarán los pasos para instalar el proxy de intercepción BURP. Para realizar la instalación, primero se debe descargar la imagen para Linux en el sitio oficial ([Ver enlace](https://portswigger.net/burp/communitydownload)). 
 
