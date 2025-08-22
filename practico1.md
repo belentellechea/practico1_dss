@@ -2,7 +2,7 @@
 
 A continuación se describiran los pasos para instalar los siguientes elementos:
 
-- una máquina virtual
+- Una máquina virtual
 - Proxy de interceptación BURP
 - Visual Studio Code
 - Docker 
